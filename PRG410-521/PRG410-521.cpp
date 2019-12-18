@@ -1,5 +1,9 @@
-// PRG410-521.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// PRG410-521.cpp : This file contains the 'main' function. Program execution begins
+//and ends there.
 //
+/*
+The value of ? can be approximated by using the following series:
+*/
 
 #include <iostream>
 #include <iomanip>
